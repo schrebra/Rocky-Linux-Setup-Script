@@ -1,6 +1,8 @@
 # Rocky-Linux-Setup-Script
 
-For Rocky Linux 10.2
+For Rocky Linux 10.2 Gnome or Gnome Lite
+
+https://rockylinux.org/download
 
 # 🚀 Rocky Linux GNOME Desktop Setup
 
